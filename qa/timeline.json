@@ -1,0 +1,53 @@
+[
+ {
+  "name": "Title",
+  "dur": 5.5,
+  "subs": [
+   0.8
+  ]
+ },
+ {
+  "name": "The Delivery",
+  "dur": 13.0,
+  "subs": [
+   0.6,
+   4.8,
+   9.4
+  ]
+ },
+ {
+  "name": "The Fitting",
+  "dur": 14.0,
+  "subs": [
+   0.8,
+   4.4,
+   8.4
+  ]
+ },
+ {
+  "name": "The Demonstration",
+  "dur": 14.0,
+  "subs": [
+   0.8,
+   4.6,
+   8.6,
+   11.8
+  ]
+ },
+ {
+  "name": "The Bench",
+  "dur": 15.0,
+  "subs": [
+   1.2,
+   5.4,
+   9.2
+  ]
+ },
+ {
+  "name": "Season One",
+  "dur": 6.0,
+  "subs": [
+   2.2
+  ]
+ }
+]

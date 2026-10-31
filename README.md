@@ -21,7 +21,7 @@ scene.
 
 ## Story so far
 
-Episodes 1–5 live in `../test01`–`../test05`. The gate: opened (ep1),
+Episodes 1–5 live in `../episode01`–`../episode05`. The gate: opened (ep1),
 latched (ep2), judged (ep3), built into a wall (ep4), left wide open for a
 triumphant return (ep5). This week, technology.
 

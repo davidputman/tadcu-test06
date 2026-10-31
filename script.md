@@ -1,6 +1,6 @@
 # Tadcu — Episode 6: "The Latch"
 
-*Series: Tadcu · Episode 6 · Production: test06 · First-run finale*
+*Series: Tadcu · Episode 6 · Production: episode06 · First-run finale*
 
 ---
 

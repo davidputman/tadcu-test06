@@ -62,7 +62,7 @@ Tadcu and Bryn, mugs in hand, the gate wide open, girls on the lane.
   a good nose and forty minutes."
 - **TADCU:** "Nos da — and never change."
 - **BRYN:** *(tail: agrees)*
-- **NARRATOR:** "In Cwm Twp the gate stays open, the kettle stays warm,
+- **NARRATOR:** "In Cwm Dwl the gate stays open, the kettle stays warm,
   and the series keeps its promise."
 
 **THE END — SEASON ONE.**

@@ -73,7 +73,7 @@ each beat for the editor only. **BOLD = narrator, to be recorded.**
 *(Tadcu to camera, mug up. Bryn's tail in agreement.)*
 
 **0:51.3**
-> **In Cwm Twp the gate stays open, the kettle stays warm, and the
+> **In Cwm Dwl the gate stays open, the kettle stays warm, and the
 > series keeps its promise.**
 
 *(Beat.)*

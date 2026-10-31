@@ -46,4 +46,4 @@ gate wide open, one kettle pouring.
 
 Same flat 2-D vector series language (HTML + CSS + SVG, no assets).
 Runtime ~67 seconds across 6 panels. © 2026 — Tadcu series. Episode 6 of
-the first test run, from the Cwm Twp production unit.
+the first test run, from the Cwm Dwl production unit.
